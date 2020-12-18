@@ -1,4 +1,3 @@
-import { queries } from '@testing-library/react';
 import {shuffleArray} from './utilis'
 export type Question={
     category:string;
